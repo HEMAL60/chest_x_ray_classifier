@@ -1,0 +1,591 @@
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+ERROR:__main__:Error during API request: shape
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+ERROR:__main__:Error during API request: shape
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading and resizing---->(1024, 1024, 3)
+ERROR:__main__:Error during API request: 'NoneType' object has no attribute 'shape'
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001EB82781E10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+ERROR:__main__:Error during API request: local variable 'str1' referenced before assignment
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000020B1D7F1D80> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+ERROR:__main__:Error during API request: local variable 'str1' referenced before assignment
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001F40D715E10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:string from get label from binary--->
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001BB0DF55C60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:string from get label from binary--->
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000021696E95CF0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+ERROR:__main__:Error during API request: iteration over a 0-d array
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001CC47E51C60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+ERROR:__main__:Error during API request: get_labels_from_output() missing 1 required positional argument: 'label_order'
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001D246B55D80> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+ERROR:__main__:Error during API request: get_labels_from_output() missing 1 required positional argument: 'label_order'
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000020603E35E10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+ERROR:__main__:Error during API request: Mismatch between output length and label_order length.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000023A251C1CF0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+ERROR:__main__:Error during API request: OpenCV(4.8.0) :-1: error: (-5:Bad argument) in function 'apply'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+ERROR:__main__:Error during API request: OpenCV(4.8.0) :-1: error: (-5:Bad argument) in function 'apply'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+ERROR:__main__:Error during API request: OpenCV(4.8.0) :-1: error: (-5:Bad argument) in function 'apply'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+ERROR:__main__:Error during API request: OpenCV(4.8.0) :-1: error: (-5:Bad argument) in function 'apply'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->()
+INFO:__main__:image batch---->(1,)
+ERROR:__main__:Error during API request: Failed to convert a NumPy array to a Tensor (Unsupported object type NoneType).
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->()
+INFO:__main__:image batch---->(1,)
+ERROR:__main__:Error during API request: Failed to convert a NumPy array to a Tensor (Unsupported object type NoneType).
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001E802A185E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+WARNING:tensorflow:No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001DE832E4670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000013F0CFB5AB0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.10677543 0.05024059 0.04130123 0.0109235  0.16660614 0.09522988
+  0.0527553  0.01445831 0.34988073 0.12704004 0.14620088 0.10953285
+  0.01964491 0.16556956]]
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 0 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.1578652  0.02656844 0.06099688 0.00891532 0.4167601  0.05282089
+  0.03573289 0.00312907 0.4371076  0.26073098 0.17877814 0.13586712
+  0.04523233 0.16958478]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.10205155 0.0242082  0.03183858 0.01104999 0.20610291 0.08525956
+  0.05302764 0.01025648 0.39339462 0.17462212 0.16259478 0.12006816
+  0.03085941 0.17091353]]
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.13836822 0.02374    0.05307012 0.01827447 0.37112632 0.08852929
+  0.0481008  0.00923981 0.42008394 0.2737479  0.1982585  0.13039896
+  0.06376898 0.20012255]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000248210A3AC0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.1423508  0.02153109 0.05070848 0.00449334 0.44216102 0.03829857
+  0.0427276  0.00121188 0.40665057 0.22612706 0.1783463  0.10669228
+  0.04685041 0.13685887]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000223BBBC7EB0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.1423508  0.02153109 0.05070848 0.00449334 0.44216102 0.03829857
+  0.0427276  0.00121188 0.40665057 0.22612706 0.1783463  0.10669228
+  0.04685041 0.13685887]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001B01F637EB0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.1423508  0.02153109 0.05070848 0.00449334 0.44216102 0.03829857
+  0.0427276  0.00121188 0.40665057 0.22612706 0.1783463  0.10669228
+  0.04685041 0.13685887]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.1423508 , 0.02153109, 0.05070848, 0.00449334, 0.44216102,
+       0.03829857, 0.0427276 , 0.00121188, 0.40665057, 0.22612706,
+       0.1783463 , 0.10669228, 0.04685041, 0.13685887], dtype=float32)}
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001A6AF885AB0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[array([0.1423508 , 0.02153109, 0.05070848, 0.00449334, 0.44216102,
+       0.03829857, 0.0427276 , 0.00121188, 0.40665057, 0.22612706,
+       0.1783463 , 0.10669228, 0.04685041, 0.13685887], dtype=float32)]
+ERROR:__main__:Error during API request: '>=' not supported between instances of 'list' and 'float'
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000024E82345480> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.1423508  0.02153109 0.05070848 0.00449334 0.44216102 0.03829857
+  0.0427276  0.00121188 0.40665057 0.22612706 0.1783463  0.10669228
+  0.04685041 0.13685887]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.1423508 , 0.02153109, 0.05070848, 0.00449334, 0.44216102,
+       0.03829857, 0.0427276 , 0.00121188, 0.40665057, 0.22612706,
+       0.1783463 , 0.10669228, 0.04685041, 0.13685887], dtype=float32)}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.18228725 0.07128967 0.09537292 0.01378546 0.30197522 0.05018653
+  0.01999067 0.0015539  0.36718145 0.1356791  0.1047145  0.13331626
+  0.01363371 0.16829969]]
+INFO:__main__:predicted class--->[[0 0 0 0 0 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.18228725, 0.07128967, 0.09537292, 0.01378546, 0.30197522,
+       0.05018653, 0.01999067, 0.0015539 , 0.36718145, 0.1356791 ,
+       0.1047145 , 0.13331626, 0.01363371, 0.16829969], dtype=float32)}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[2.01817259e-01 3.82193811e-02 6.52133077e-02 2.52337870e-03
+  5.23448646e-01 4.41245772e-02 4.60187793e-02 1.05930514e-04
+  3.80336761e-01 1.38001025e-01 1.09441631e-01 1.51888698e-01
+  1.07003385e-02 1.91651091e-01]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([2.01817259e-01, 3.82193811e-02, 6.52133077e-02, 2.52337870e-03,
+       5.23448646e-01, 4.41245772e-02, 4.60187793e-02, 1.05930514e-04,
+       3.80336761e-01, 1.38001025e-01, 1.09441631e-01, 1.51888698e-01,
+       1.07003385e-02, 1.91651091e-01], dtype=float32)}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.21922623 0.06211009 0.06865396 0.00916422 0.38444835 0.04880486
+  0.04041341 0.00230658 0.3672711  0.15803629 0.10641689 0.15491225
+  0.00681319 0.17000009]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.21922623, 0.06211009, 0.06865396, 0.00916422, 0.38444835,
+       0.04880486, 0.04041341, 0.00230658, 0.3672711 , 0.15803629,
+       0.10641689, 0.15491225, 0.00681319, 0.17000009], dtype=float32)}
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001C09B3691B0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.23110162 0.0533583  0.09353989 0.04373831 0.26681384 0.04796803
+  0.03007071 0.0041799  0.37288636 0.11372832 0.11971211 0.06295132
+  0.02855188 0.09900186]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.23110162, 0.0533583 , 0.09353989, 0.04373831, 0.26681384,
+       0.04796803, 0.03007071, 0.0041799 , 0.37288636, 0.11372832,
+       0.11971211, 0.06295132, 0.02855188, 0.09900186], dtype=float32)}
+ERROR:__main__:Error during API request: Object of type ndarray is not JSON serializable
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.23110162 0.0533583  0.09353989 0.04373831 0.26681384 0.04796803
+  0.03007071 0.0041799  0.37288636 0.11372832 0.11971211 0.06295132
+  0.02855188 0.09900186]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.23110162, 0.0533583 , 0.09353989, 0.04373831, 0.26681384,
+       0.04796803, 0.03007071, 0.0041799 , 0.37288636, 0.11372832,
+       0.11971211, 0.06295132, 0.02855188, 0.09900186], dtype=float32)}
+ERROR:__main__:Error during API request: Object of type ndarray is not JSON serializable
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.23110162 0.0533583  0.09353989 0.04373831 0.26681384 0.04796803
+  0.03007071 0.0041799  0.37288636 0.11372832 0.11971211 0.06295132
+  0.02855188 0.09900186]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.23110162, 0.0533583 , 0.09353989, 0.04373831, 0.26681384,
+       0.04796803, 0.03007071, 0.0041799 , 0.37288636, 0.11372832,
+       0.11971211, 0.06295132, 0.02855188, 0.09900186], dtype=float32)}
+ERROR:__main__:Error during API request: Object of type ndarray is not JSON serializable
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.23110162 0.0533583  0.09353989 0.04373831 0.26681384 0.04796803
+  0.03007071 0.0041799  0.37288636 0.11372832 0.11971211 0.06295132
+  0.02855188 0.09900186]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.23110162, 0.0533583 , 0.09353989, 0.04373831, 0.26681384,
+       0.04796803, 0.03007071, 0.0041799 , 0.37288636, 0.11372832,
+       0.11971211, 0.06295132, 0.02855188, 0.09900186], dtype=float32)}
+ERROR:__main__:Error during API request: Object of type ndarray is not JSON serializable
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.23110162 0.0533583  0.09353989 0.04373831 0.26681384 0.04796803
+  0.03007071 0.0041799  0.37288636 0.11372832 0.11971211 0.06295132
+  0.02855188 0.09900186]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': array([0.23110162, 0.0533583 , 0.09353989, 0.04373831, 0.26681384,
+       0.04796803, 0.03007071, 0.0041799 , 0.37288636, 0.11372832,
+       0.11971211, 0.06295132, 0.02855188, 0.09900186], dtype=float32)}
+ERROR:__main__:Error during API request: Object of type ndarray is not JSON serializable
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000014A0D6CCDC0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.2310592234134674, 0.05340759456157684, 0.09361349046230316, 0.04382460191845894, 0.2668275237083435, 0.04804106801748276, 0.030122216790914536, 0.004201583564281464, 0.37295037508010864, 0.11376405507326126, 0.11978139728307724, 0.06300295889377594, 0.02860349416732788, 0.09909671545028687]]
+ERROR:__main__:Error during API request: '>=' not supported between instances of 'list' and 'float'
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001E94758D1B0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:predicted class prob--->[[0.23105922 0.05340759 0.09361349 0.0438246  0.26682752 0.04804107
+  0.03012222 0.00420158 0.37295038 0.11376406 0.1197814  0.06300296
+  0.02860349 0.09909672]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': [0.2310592234134674, 0.05340759456157684, 0.09361349046230316, 0.04382460191845894, 0.2668275237083435, 0.04804106801748276, 0.030122216790914536, 0.004201583564281464, 0.37295037508010864, 0.11376405507326126, 0.11978139728307724, 0.06300295889377594, 0.02860349416732788, 0.09909671545028687]}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:predicted class prob--->[[0.23105922 0.05340759 0.09361349 0.0438246  0.26682752 0.04804107
+  0.03012222 0.00420158 0.37295038 0.11376406 0.1197814  0.06300296
+  0.02860349 0.09909672]]
+INFO:__main__:predicted class--->[[0 0 0 0 1 0 0 0 1 0 0 0 0 0]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': [0.2310592234134674, 0.05340759456157684, 0.09361349046230316, 0.04382460191845894, 0.2668275237083435, 0.04804106801748276, 0.030122216790914536, 0.004201583564281464, 0.37295037508010864, 0.11376405507326126, 0.11978139728307724, 0.06300295889377594, 0.02860349416732788, 0.09909671545028687]}
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001D996C08E50> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:meta model predictions no list--->[[2.8080499e-01 5.3951149e-03 3.2328472e-02 1.6571853e-03 1.0924236e-01
+  1.4811827e-01 3.5531950e-05 2.2154223e-14 2.6522183e-01 1.4031522e-03
+  5.7920247e-02 7.3046237e-02 1.4785898e-01 7.7263522e-01]]
+ERROR:__main__:Error during API request: local variable 'final_prediction' referenced before assignment
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000002D392438AF0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:meta model predictions no list--->[[2.8080499e-01 5.3951149e-03 3.2328472e-02 1.6571853e-03 1.0924236e-01
+  1.4811827e-01 3.5531950e-05 2.2154223e-14 2.6522183e-01 1.4031522e-03
+  5.7920247e-02 7.3046237e-02 1.4785898e-01 7.7263522e-01]]
+INFO:__main__:meta model prediction in list--->[2.80804992e-01 5.39511489e-03 3.23284715e-02 1.65718526e-03
+ 1.09242357e-01 1.48118272e-01 3.55319498e-05 2.21542230e-14
+ 2.65221834e-01 1.40315224e-03 5.79202473e-02 7.30462372e-02
+ 1.47858977e-01 7.72635221e-01]
+INFO:__main__:predicted class prob--->[[2.8080499e-01 5.3951149e-03 3.2328472e-02 1.6571853e-03 1.0924236e-01
+  1.4811827e-01 3.5531950e-05 2.2154223e-14 2.6522183e-01 1.4031522e-03
+  5.7920247e-02 7.3046237e-02 1.4785898e-01 7.7263522e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.28080499172210693, 'Cardiomegaly': 0.00539511488750577, 'Consolidation': 0.032328471541404724, 'Edema': 0.0016571852611377835, 'Effusion': 0.10924235731363297, 'Emphysema': 0.1481182724237442, 'Fibrosis': 3.553194983396679e-05, 'Hernia': 2.2154222968401478e-14, 'Infiltration': 0.26522183418273926, 'Mass': 0.0014031522441655397, 'Nodule': 0.057920247316360474, 'Pleural_Thickening': 0.0730462372303009, 'Pneumonia': 0.14785897731781006, 'Pneumothorax': 0.7726352214813232}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[2.8080499e-01 5.3951149e-03 3.2328472e-02 1.6571853e-03 1.0924236e-01
+  1.4811827e-01 3.5531950e-05 2.2154223e-14 2.6522183e-01 1.4031522e-03
+  5.7920247e-02 7.3046237e-02 1.4785898e-01 7.7263522e-01]]
+INFO:__main__:meta model prediction in list--->[2.80804992e-01 5.39511489e-03 3.23284715e-02 1.65718526e-03
+ 1.09242357e-01 1.48118272e-01 3.55319498e-05 2.21542230e-14
+ 2.65221834e-01 1.40315224e-03 5.79202473e-02 7.30462372e-02
+ 1.47858977e-01 7.72635221e-01]
+INFO:__main__:predicted class prob--->[[2.8080499e-01 5.3951149e-03 3.2328472e-02 1.6571853e-03 1.0924236e-01
+  1.4811827e-01 3.5531950e-05 2.2154223e-14 2.6522183e-01 1.4031522e-03
+  5.7920247e-02 7.3046237e-02 1.4785898e-01 7.7263522e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.28080499172210693, 'Cardiomegaly': 0.00539511488750577, 'Consolidation': 0.032328471541404724, 'Edema': 0.0016571852611377835, 'Effusion': 0.10924235731363297, 'Emphysema': 0.1481182724237442, 'Fibrosis': 3.553194983396679e-05, 'Hernia': 2.2154222968401478e-14, 'Infiltration': 0.26522183418273926, 'Mass': 0.0014031522441655397, 'Nodule': 0.057920247316360474, 'Pleural_Thickening': 0.0730462372303009, 'Pneumonia': 0.14785897731781006, 'Pneumothorax': 0.7726352214813232}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+  7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+  5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+  7.57703930e-02 9.43121500e-03]]
+INFO:__main__:meta model prediction in list--->[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+ 7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+ 5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+ 7.57703930e-02 9.43121500e-03]
+INFO:__main__:predicted class prob--->[[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+  7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+  5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+  7.57703930e-02 9.43121500e-03]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.2613050043582916, 'Cardiomegaly': 0.055260203778743744, 'Consolidation': 0.2054673731327057, 'Edema': 0.10532819479703903, 'Effusion': 0.07568163424730301, 'Emphysema': 0.0005158651620149612, 'Fibrosis': 9.262017556466162e-05, 'Hernia': 3.015713763779293e-14, 'Infiltration': 0.562099814414978, 'Mass': 0.018759876489639282, 'Nodule': 0.009590700268745422, 'Pleural_Thickening': 0.019090093672275543, 'Pneumonia': 0.07577039301395416, 'Pneumothorax': 0.00943121500313282}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+  7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+  5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+  7.57703930e-02 9.43121500e-03]]
+INFO:__main__:meta model prediction in list--->[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+ 7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+ 5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+ 7.57703930e-02 9.43121500e-03]
+INFO:__main__:predicted class prob--->[[2.61305004e-01 5.52602038e-02 2.05467373e-01 1.05328195e-01
+  7.56816342e-02 5.15865162e-04 9.26201756e-05 3.01571376e-14
+  5.62099814e-01 1.87598765e-02 9.59070027e-03 1.90900937e-02
+  7.57703930e-02 9.43121500e-03]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.2613050043582916, 'Cardiomegaly': 0.055260203778743744, 'Consolidation': 0.2054673731327057, 'Edema': 0.10532819479703903, 'Effusion': 0.07568163424730301, 'Emphysema': 0.0005158651620149612, 'Fibrosis': 9.262017556466162e-05, 'Hernia': 3.015713763779293e-14, 'Infiltration': 0.562099814414978, 'Mass': 0.018759876489639282, 'Nodule': 0.009590700268745422, 'Pleural_Thickening': 0.019090093672275543, 'Pneumonia': 0.07577039301395416, 'Pneumothorax': 0.00943121500313282}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[4.6634859e-01 2.4277004e-03 1.2039076e-02 3.8820235e-03 6.2033363e-02
+  2.5258198e-02 3.4931401e-07 9.7129607e-21 3.2349491e-01 1.4536091e-04
+  2.3007244e-02 2.8534308e-02 2.6548052e-01 8.1171376e-01]]
+INFO:__main__:meta model prediction in list--->[4.66348588e-01 2.42770044e-03 1.20390756e-02 3.88202351e-03
+ 6.20333627e-02 2.52581984e-02 3.49314007e-07 9.71296074e-21
+ 3.23494911e-01 1.45360915e-04 2.30072439e-02 2.85343081e-02
+ 2.65480518e-01 8.11713755e-01]
+INFO:__main__:predicted class prob--->[[4.6634859e-01 2.4277004e-03 1.2039076e-02 3.8820235e-03 6.2033363e-02
+  2.5258198e-02 3.4931401e-07 9.7129607e-21 3.2349491e-01 1.4536091e-04
+  2.3007244e-02 2.8534308e-02 2.6548052e-01 8.1171376e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.4663485884666443, 'Cardiomegaly': 0.0024277004413306713, 'Consolidation': 0.01203907560557127, 'Edema': 0.0038820235058665276, 'Effusion': 0.062033362686634064, 'Emphysema': 0.025258198380470276, 'Fibrosis': 3.4931400705318083e-07, 'Hernia': 9.712960739957222e-21, 'Infiltration': 0.32349491119384766, 'Mass': 0.00014536091475747526, 'Nodule': 0.023007243871688843, 'Pleural_Thickening': 0.028534308075904846, 'Pneumonia': 0.26548051834106445, 'Pneumothorax': 0.8117137551307678}
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001CF17F04B80> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:meta model predictions no list--->[[3.34664509e-02 3.18230828e-03 6.38070181e-02 2.27100973e-04
+  3.32486406e-02 9.62860361e-02 5.99807799e-02 2.46383902e-03
+  4.14990515e-01 1.00545265e-01 2.26828501e-01 8.73161480e-02
+  1.32319257e-01 1.84907570e-01]]
+INFO:__main__:meta model prediction in list--->[3.34664509e-02 3.18230828e-03 6.38070181e-02 2.27100973e-04
+ 3.32486406e-02 9.62860361e-02 5.99807799e-02 2.46383902e-03
+ 4.14990515e-01 1.00545265e-01 2.26828501e-01 8.73161480e-02
+ 1.32319257e-01 1.84907570e-01]
+INFO:__main__:predicted class prob--->[[3.34664509e-02 3.18230828e-03 6.38070181e-02 2.27100973e-04
+  3.32486406e-02 9.62860361e-02 5.99807799e-02 2.46383902e-03
+  4.14990515e-01 1.00545265e-01 2.26828501e-01 8.73161480e-02
+  1.32319257e-01 1.84907570e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.03346645087003708, 'Cardiomegaly': 0.0031823082827031612, 'Consolidation': 0.06380701810121536, 'Edema': 0.00022710097255185246, 'Effusion': 0.03324864059686661, 'Emphysema': 0.09628603607416153, 'Fibrosis': 0.05998077988624573, 'Hernia': 0.002463839016854763, 'Infiltration': 0.41499051451683044, 'Mass': 0.10054526478052139, 'Nodule': 0.22682850062847137, 'Pleural_Thickening': 0.08731614798307419, 'Pneumonia': 0.13231925666332245, 'Pneumothorax': 0.18490757048130035}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[5.0691229e-01 1.8059799e-02 1.1629682e-01 9.2919181e-05 5.1846975e-01
+  9.3800217e-01 1.5965488e-02 2.2387700e-02 1.0462726e-01 3.5760793e-01
+  4.0978819e-02 6.2840700e-01 1.3529985e-01 9.5070457e-01]]
+INFO:__main__:meta model prediction in list--->[5.06912291e-01 1.80597994e-02 1.16296820e-01 9.29191810e-05
+ 5.18469751e-01 9.38002169e-01 1.59654878e-02 2.23877002e-02
+ 1.04627259e-01 3.57607931e-01 4.09788191e-02 6.28407001e-01
+ 1.35299847e-01 9.50704575e-01]
+INFO:__main__:predicted class prob--->[[5.0691229e-01 1.8059799e-02 1.1629682e-01 9.2919181e-05 5.1846975e-01
+  9.3800217e-01 1.5965488e-02 2.2387700e-02 1.0462726e-01 3.5760793e-01
+  4.0978819e-02 6.2840700e-01 1.3529985e-01 9.5070457e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.5069122910499573, 'Cardiomegaly': 0.018059799447655678, 'Consolidation': 0.11629682034254074, 'Edema': 9.291918104281649e-05, 'Effusion': 0.5184697508811951, 'Emphysema': 0.9380021691322327, 'Fibrosis': 0.01596548780798912, 'Hernia': 0.022387700155377388, 'Infiltration': 0.10462725907564163, 'Mass': 0.3576079308986664, 'Nodule': 0.040978819131851196, 'Pleural_Thickening': 0.6284070014953613, 'Pneumonia': 0.13529984652996063, 'Pneumothorax': 0.9507045745849609}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[0.0962657  0.01021524 0.08135514 0.00072413 0.15443017 0.16108194
+  0.05981558 0.00189536 0.30225196 0.13379961 0.14965852 0.1235775
+  0.1513035  0.34953105]]
+INFO:__main__:meta model prediction in list--->[0.0962657  0.01021524 0.08135514 0.00072413 0.15443017 0.16108194
+ 0.05981558 0.00189536 0.30225196 0.13379961 0.14965852 0.1235775
+ 0.1513035  0.34953105]
+INFO:__main__:predicted class prob--->[[0.0962657  0.01021524 0.08135514 0.00072413 0.15443017 0.16108194
+  0.05981558 0.00189536 0.30225196 0.13379961 0.14965852 0.1235775
+  0.1513035  0.34953105]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.09626570343971252, 'Cardiomegaly': 0.010215242393314838, 'Consolidation': 0.08135513961315155, 'Edema': 0.0007241346756927669, 'Effusion': 0.15443016588687897, 'Emphysema': 0.1610819399356842, 'Fibrosis': 0.059815581887960434, 'Hernia': 0.0018953578546643257, 'Infiltration': 0.3022519648075104, 'Mass': 0.13379961252212524, 'Nodule': 0.14965851604938507, 'Pleural_Thickening': 0.12357749789953232, 'Pneumonia': 0.1513034999370575, 'Pneumothorax': 0.34953105449676514}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[2.71189269e-02 2.54165148e-03 6.24941550e-02 1.26398751e-04
+  3.19998823e-02 1.34719998e-01 7.87815079e-02 3.22980946e-03
+  4.01880473e-01 1.07314765e-01 2.42568269e-01 1.14361428e-01
+  1.70786217e-01 2.31967509e-01]]
+INFO:__main__:meta model prediction in list--->[2.71189269e-02 2.54165148e-03 6.24941550e-02 1.26398751e-04
+ 3.19998823e-02 1.34719998e-01 7.87815079e-02 3.22980946e-03
+ 4.01880473e-01 1.07314765e-01 2.42568269e-01 1.14361428e-01
+ 1.70786217e-01 2.31967509e-01]
+INFO:__main__:predicted class prob--->[[2.71189269e-02 2.54165148e-03 6.24941550e-02 1.26398751e-04
+  3.19998823e-02 1.34719998e-01 7.87815079e-02 3.22980946e-03
+  4.01880473e-01 1.07314765e-01 2.42568269e-01 1.14361428e-01
+  1.70786217e-01 2.31967509e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.027118926867842674, 'Cardiomegaly': 0.0025416514836251736, 'Consolidation': 0.06249415501952171, 'Edema': 0.00012639875058084726, 'Effusion': 0.03199988231062889, 'Emphysema': 0.13471999764442444, 'Fibrosis': 0.07878150790929794, 'Hernia': 0.003229809459298849, 'Infiltration': 0.4018804728984833, 'Mass': 0.10731476545333862, 'Nodule': 0.2425682693719864, 'Pleural_Thickening': 0.11436142772436142, 'Pneumonia': 0.17078621685504913, 'Pneumothorax': 0.2319675087928772}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[6.4796215e-01 2.9795181e-02 1.5884559e-01 7.3481038e-05 5.5004811e-01
+  9.8068452e-01 6.7959409e-03 3.4232363e-02 7.9307288e-02 3.9035362e-01
+  2.3197908e-02 7.4050581e-01 2.1679722e-01 9.7740173e-01]]
+INFO:__main__:meta model prediction in list--->[6.47962153e-01 2.97951810e-02 1.58845589e-01 7.34810383e-05
+ 5.50048113e-01 9.80684519e-01 6.79594092e-03 3.42323631e-02
+ 7.93072879e-02 3.90353620e-01 2.31979080e-02 7.40505815e-01
+ 2.16797218e-01 9.77401733e-01]
+INFO:__main__:predicted class prob--->[[6.4796215e-01 2.9795181e-02 1.5884559e-01 7.3481038e-05 5.5004811e-01
+  9.8068452e-01 6.7959409e-03 3.4232363e-02 7.9307288e-02 3.9035362e-01
+  2.3197908e-02 7.4050581e-01 2.1679722e-01 9.7740173e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.6479621529579163, 'Cardiomegaly': 0.02979518100619316, 'Consolidation': 0.15884558856487274, 'Edema': 7.348103827098384e-05, 'Effusion': 0.5500481128692627, 'Emphysema': 0.9806845188140869, 'Fibrosis': 0.006795940920710564, 'Hernia': 0.03423236310482025, 'Infiltration': 0.07930728793144226, 'Mass': 0.39035362005233765, 'Nodule': 0.023197907954454422, 'Pleural_Thickening': 0.7405058145523071, 'Pneumonia': 0.21679721772670746, 'Pneumothorax': 0.9774017333984375}
+INFO:__main__:all models loaded successfully
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000002B097FE9000> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:__main__:meta model predictions no list--->[[5.6164086e-02 2.3427303e-03 9.9720443e-03 9.1125861e-05 1.1040730e-01
+  6.4134456e-02 2.5334838e-01 6.0973400e-03 1.2756675e-01 1.6657574e-01
+  2.1787399e-01 3.4476203e-01 2.3268981e-02 2.8280270e-01]]
+INFO:__main__:meta model prediction in list--->[5.61640859e-02 2.34273029e-03 9.97204427e-03 9.11258612e-05
+ 1.10407300e-01 6.41344562e-02 2.53348380e-01 6.09734003e-03
+ 1.27566755e-01 1.66575745e-01 2.17873991e-01 3.44762027e-01
+ 2.32689809e-02 2.82802701e-01]
+INFO:__main__:predicted class prob--->[[5.6164086e-02 2.3427303e-03 9.9720443e-03 9.1125861e-05 1.1040730e-01
+  6.4134456e-02 2.5334838e-01 6.0973400e-03 1.2756675e-01 1.6657574e-01
+  2.1787399e-01 3.4476203e-01 2.3268981e-02 2.8280270e-01]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.05616408586502075, 'Cardiomegaly': 0.0023427302949130535, 'Consolidation': 0.00997204426676035, 'Edema': 9.112586121773347e-05, 'Effusion': 0.11040730029344559, 'Emphysema': 0.06413445621728897, 'Fibrosis': 0.25334838032722473, 'Hernia': 0.006097340025007725, 'Infiltration': 0.12756675481796265, 'Mass': 0.16657574474811554, 'Nodule': 0.21787399053573608, 'Pleural_Thickening': 0.34476202726364136, 'Pneumonia': 0.023268980905413628, 'Pneumothorax': 0.2828027009963989}
+INFO:__main__:image shape after reading---->(1024, 1024, 3)
+INFO:__main__:image shape after reading and resizing---->(256, 256, 3)
+INFO:__main__:image batch---->(1, 256, 256, 3)
+INFO:__main__:meta model predictions no list--->[[0.17183568 0.01980392 0.04089147 0.00129617 0.8584753  0.37819856
+  0.02602781 0.01911621 0.03674516 0.438813   0.0475659  0.60581875
+  0.06302902 0.6479727 ]]
+INFO:__main__:meta model prediction in list--->[0.17183568 0.01980392 0.04089147 0.00129617 0.85847533 0.37819856
+ 0.02602781 0.01911621 0.03674516 0.438813   0.0475659  0.60581875
+ 0.06302902 0.6479727 ]
+INFO:__main__:predicted class prob--->[[0.17183568 0.01980392 0.04089147 0.00129617 0.8584753  0.37819856
+  0.02602781 0.01911621 0.03674516 0.438813   0.0475659  0.60581875
+  0.06302902 0.6479727 ]]
+INFO:__main__:probability dictionary found --->{'Atelectasis': 0.17183567583560944, 'Cardiomegaly': 0.01980392076075077, 'Consolidation': 0.04089147225022316, 'Edema': 0.0012961673783138394, 'Effusion': 0.8584753274917603, 'Emphysema': 0.3781985640525818, 'Fibrosis': 0.02602780982851982, 'Hernia': 0.01911620795726776, 'Infiltration': 0.03674515709280968, 'Mass': 0.4388130009174347, 'Nodule': 0.047565896064043045, 'Pleural_Thickening': 0.6058187484741211, 'Pneumonia': 0.06302902102470398, 'Pneumothorax': 0.6479727029800415}

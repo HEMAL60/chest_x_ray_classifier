@@ -1,0 +1,10 @@
+pandas
+Pillow
+matplotlib
+numpy
+fastapi
+uvicorn
+python-multipart
+opencv-python
+transformers
+tensorflow
