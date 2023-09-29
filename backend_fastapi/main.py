@@ -22,6 +22,15 @@ logger = logging.getLogger(__name__)
 
 
 custom_objects = {'TFViTMainLayer': TFViTModel}
+#with custom_object_scope(custom_objects):
+#    VIT_MODEL = tf.keras.models.load_model('C:/Users/hemal nakrani/DeepLearningProjects/AI_Projects/chest_x_ray_classifier/backend_fastapi/saved_models/vit_model.h5')
+
+#RESNET_MODEL = tf.keras.models.load_model('C:/Users/hemal nakrani/DeepLearningProjects/AI_Projects/chest_x_ray_classifier/backend_fastapi/saved_models/resnet_model.h5')
+#VGG_MODEL = tf.keras.models.load_model('C:/Users/hemal nakrani/DeepLearningProjects/AI_Projects/chest_x_ray_classifier/backend_fastapi/saved_models/vgg19_model.h5')
+#XCEPTION_MODEL = tf.keras.models.load_model('C:/Users/hemal nakrani/DeepLearningProjects/AI_Projects/chest_x_ray_classifier/backend_fastapi/saved_models/xception_model.h5')
+#META_MODEL = tf.keras.models.load_model('C:/Users/hemal nakrani/DeepLearningProjects/AI_Projects/chest_x_ray_classifier/backend_fastapi/saved_models/meta_model.h5')
+#MODEL = tf.keras.models.load_model(model_file)
+custom_objects = {'TFViTMainLayer': TFViTModel}
 with custom_object_scope(custom_objects):
     VIT_MODEL = tf.keras.models.load_model('/chest_x_ray_classifier/backend_fastapi/saved_models/vit_model.h5')
 
@@ -55,7 +64,15 @@ def get_labels_from_output(output):
     return labels
 
 def apply_clahe_to_image(image: np.ndarray) -> np.ndarray:
-    
+    """
+    Apply CLAHE (Contrast Limited Adaptive Histogram Equalization) to an image.
+
+    Parameters:
+    - image: The input image as a numpy array.
+
+    Returns:
+    - The image after applying CLAHE.
+    """
     # Convert the image from RGB to LAB color space
     lab = cv2.cvtColor(image, cv2.COLOR_RGB2LAB)
     
@@ -109,6 +126,11 @@ async def predict(
         pred2 = RESNET_MODEL.predict(image_batch)
         pred3 = VGG_MODEL.predict(image_batch)
         pred4 = XCEPTION_MODEL.predict(image_batch)
+
+        #pred1 = sparse_binary_convertor(pred1)
+        #pred2 = sparse_binary_convertor(pred2)
+        #pred3 = sparse_binary_convertor(pred3)
+        #pred4 = sparse_binary_convertor(pred4)
 
         stacked_predictions = np.hstack((pred1, pred2, pred3, pred4))
         print(f'stacked pred len--->{len(stacked_predictions)}')
