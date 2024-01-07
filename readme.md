@@ -39,3 +39,5 @@ For inquiries or contributions: [Your Contact Information].
 
 ## 📜 License
 This project is released under [Specify License].
+
+Note - for more details and refrence please read given project documentation pdf
