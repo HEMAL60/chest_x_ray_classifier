@@ -6,6 +6,7 @@ This project employs deep learning models to classify diseases from chest X-ray 
 ## 🔨 Installation
 - Clone the repository.
 - Install required Python packages: `pip install -r requirements.txt`.
+- run 'docker compose up'
 - Ensure necessary hardware (GPU) for deep learning models.
 
 ## 🚀 Usage
